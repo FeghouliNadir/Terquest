@@ -2,7 +2,7 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.3/font/bootstrap-icons.css");
 @font-face {
   font-family: "Endor";
-  src: local("Endor"), url("/assets/ENDOR___.ttf") format("truetype");
+  src: local("Endor"), url("assets/ENDOR___.ttf") format("truetype");
 }
 body,
 html {
