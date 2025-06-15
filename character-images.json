@@ -1,0 +1,153 @@
+{
+  "vampire": {
+    "base": {
+      "count": 1,
+      "files": ["vampire-base.png"]
+    },
+    "accessories": {
+      "count": 1,
+      "files": ["accessory1.png"]
+    },
+    "ears": {
+      "count": 0,
+      "files": []
+    },
+    "shoes": {
+      "count": 2,
+      "files": [
+        "Shoe1.png",
+        "Shoe2.png"
+      ]
+    },
+    "legs": {
+      "count": 5,
+      "files": [
+        "legs1.png",
+        "legs2.png",
+        "legs3.png",
+        "legs4.png",
+        "legs5.png"
+      ]
+    },
+    "chest": {
+      "count": 6,
+      "files": [
+        "torso1.png",
+        "torso2.png",
+        "torso3.png",
+        "torso4.png",
+        "torso5.png",
+        "torso6.png"
+      ]
+    },
+    "head": {
+      "count": 0,
+      "files": []
+    }
+  },
+  "mermaid": {
+    "base": {
+      "count": 1,
+      "files": ["mermaid-base.png"]
+    },
+    "accessories": {
+      "count": 6,
+      "files": [
+        "accessory1.png",
+        "accessory2.png",
+        "accessory3.png",
+        "accessory4.png",
+        "accessory5.png",
+        "accessory6.png"
+      ]
+    },
+    "ears": {
+      "count": 5,
+      "files": [
+        "ears1.png",
+        "ears2.png",
+        "ears3.png",
+        "ears4.png",
+        "ears5.png"
+      ]
+    },
+    "shoes": {
+      "count": 8,
+      "files": [
+        "shoes1.png",
+        "shoes2.png",
+        "shoes3.png",
+        "shoes4.png",
+        "shoes5.png",
+        "shoes6.png",
+        "shoes7.png",
+        "shoes8.png"
+      ]
+    },
+    "legs": {
+      "count": 6,
+      "files": [
+        "legs1.png",
+        "legs2.png",
+        "legs3.png",
+        "legs4.png",
+        "legs5.png",
+        "legs6.png"
+      ]
+    },
+    "chest": {
+      "count": 6,
+      "files": [
+        "torso1.png",
+        "torso2.png",
+        "torso3.png",
+        "torso4.png",
+        "torso5.png",
+        "torso6.png"
+      ]
+    },
+    "head": {
+      "count": 8,
+      "files": [
+        "hair1.png",
+        "hair2.png",
+        "hair3.png",
+        "hair4.png",
+        "hair5.png",
+        "hair6.png",
+        "hair7.png",
+        "hair8.png"
+      ]
+    }
+  },
+  "demon": {
+    "base": {
+      "count": 0,
+      "files": ["demon-base.png"]
+    },
+    "accessories": {
+      "count": 0,
+      "files": ["accessory1.png", "accessory2.png", "accessory3.png"]
+    },
+    "ears": {
+      "count": 0,
+      "files": []
+    },
+    "shoes": {
+      "count": 0,
+      "files": []
+    },
+    "legs": {
+      "count": 0,
+      "files": ["legs1.png", "legs2.png", "legs3.png"]
+    },
+    "chest": {
+      "count": 0,
+      "files": ["torso1.png", "torso2.png", "torso3.png"]
+    },
+    "head": {
+      "count": 0,
+      "files": ["head1.png", "head2.png", "head3.png", "head4.png", "head5.png", "head6.png"]
+    }
+  }
+}
