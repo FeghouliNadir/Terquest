@@ -8,7 +8,7 @@ async function loadCategoryImages(category) {
 
     try {
         // Fetch the JSON file
-        const response = await fetch(`/character-images.json`);
+        const response = await fetch(`character-images.json`);
         const data = await response.json();
 
         // Get the assets container
